@@ -1,7 +1,7 @@
 <?php
 
 $random = function() use (&$random) {
-    return mt_rand() / mt_getrandmax();
+    return mt_rand() / mt_getrand\max();
 };
 
 $exports['random'] = $random;
