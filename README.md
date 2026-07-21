@@ -1,4 +1,4 @@
-# purescript-random
+# phpurs-random
 
 [![Latest release](http://img.shields.io/github/release/purescript/purescript-random.svg)](https://github.com/purescript/purescript-random/releases)
 [![Build status](https://github.com/purescript/purescript-random/workflows/CI/badge.svg?branch=master)](https://github.com/purescript/purescript-random/actions?query=workflow%3ACI+branch%3Amaster)
