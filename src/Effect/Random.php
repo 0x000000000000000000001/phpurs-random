@@ -1,6 +1,6 @@
 <?php
 
-$random = function() use (&$random) {
+$random = function () {
     return \mt_rand() / \mt_getrandmax();
 };
 
